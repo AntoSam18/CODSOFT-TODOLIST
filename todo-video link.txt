@@ -1,0 +1,6 @@
+CODESOFT-PYTHON DEVELOPER INTERN
+TASK:01-TO DO LIST
+
+I have developed a To-Do List application utilizing three modules: `plyer` for notifications, `sqlite3` for database management, and `datetime` for handling date and time operations. The application stores tasks in a database and sends notifications to the user if a task is overdue. It includes five core functions: creating a task, displaying tasks, displaying metrics, marking a task as completed, and sending notifications. Additionally, there is an option to exit the application. A video demonstration showcasing the application's features and functionality is provided below, illustrating its workflow and key operations.
+
+Video Link:https://drive.google.com/file/d/1IEHVB8QNtkr5ghrcCGp6lrGILtdSeoRu/view?usp=drive_link
