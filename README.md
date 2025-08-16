@@ -20,6 +20,7 @@ todo-list-app/
 ├── antotodo.py              # Main application script
 ├── database.py          # Database setup and helper functions
 ├── requirements.txt     # Dependencies
+├── todo-videolink.txt   #Detailed Video Explanation
 └── README.md            # Documentation
 ```
 
