@@ -17,7 +17,7 @@ This app allows you to **add tasks, mark them as completed, view pending tasks, 
 ## 📂 Project Structure
 ```
 todo-list-app/
-├── todo.py              # Main application script
+├── antotodo.py              # Main application script
 ├── database.py          # Database setup and helper functions
 ├── requirements.txt     # Dependencies
 └── README.md            # Documentation
